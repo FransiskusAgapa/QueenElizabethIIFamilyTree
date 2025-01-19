@@ -39,6 +39,7 @@ show_queen_sibling :-
     write(" is the queen's "),
     write(Y),nl.
 
+
 % Quiz 
 who_is_the_father :-
     show_queen_father.
